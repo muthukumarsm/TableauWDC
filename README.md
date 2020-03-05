@@ -6,5 +6,5 @@ Access the following links from Tableau desktop - "To a Server" option in Connec
 1) Books - Best sellers list category - Provides categorical list along with Image for using in your portal - https://muthukumarsm.github.io/TableauWDC/Books.html
 
 2) Book Details - Provies best selling book names, category and purchase links for all the categories - 
-https://muthukumarsm.github.io/TableauWDC/Book Details.html
+https://muthukumarsm.github.io/TableauWDC/Book%20Details.html
 
