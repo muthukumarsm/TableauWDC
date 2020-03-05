@@ -1,5 +1,6 @@
 # TableauWDC
-Tableau Web data connector for NYTimes best sellers
+
+# Tableau Web data connector for NYTimes best sellers
 
 Access the following links from Tableau desktop - "To a Server" option in Connect pane - Web data connector:
 
